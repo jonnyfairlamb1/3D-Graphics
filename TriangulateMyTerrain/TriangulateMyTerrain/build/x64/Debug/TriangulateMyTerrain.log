@@ -1,0 +1,35 @@
+﻿  tdk.pubs pre-build ...
+  ... done
+  TriangulateMyTerrain.vcxproj -> G:\Uni\Year2\3DG\NewTerrain\build\bin\x64\Debug\TriangulateMyTerrain.exe
+  TriangulateMyTerrain.vcxproj -> G:\Uni\Year2\3DG\NewTerrain\build\bin\x64\Debug\TriangulateMyTerrain.pdb (Full PDB)
+  tdk application post-build ...
+  doc\readme.txt
+  1 File(s) copied
+  ... done
+  tdk post-build ...
+  doc\readme.txt
+  1 File(s) copied
+  File not found - *
+  0 File(s) copied
+  shaders\terrain_fs.glsl
+  shaders\terrain_vs.glsl
+  2 File(s) copied
+  G:\Uni\Year2\3DG\NewTerrain\external\bin\x64\glfw3.dll
+  1 File(s) copied
+  G:\Uni\Year2\3DG\NewTerrain\external\bin\x64\tdl.dll
+  1 File(s) copied
+  ... done
+  tdk.pubs post-build ...
+  G:\Uni\Year2\3DG\NewTerrain\build\bin\x64\Debug\glfw3.dll
+  G:\Uni\Year2\3DG\NewTerrain\build\bin\x64\Debug\readme.txt
+  G:\Uni\Year2\3DG\NewTerrain\build\bin\x64\Debug\tdl.dll
+  G:\Uni\Year2\3DG\NewTerrain\build\bin\x64\Debug\terrain_fs.glsl
+  G:\Uni\Year2\3DG\NewTerrain\build\bin\x64\Debug\terrain_vs.glsl
+  G:\Uni\Year2\3DG\NewTerrain\build\bin\x64\Debug\TriangulateMyTerrain.exe
+  G:\Uni\Year2\3DG\NewTerrain\build\bin\x64\Debug\TriangulateMyTerrain.idb
+  G:\Uni\Year2\3DG\NewTerrain\build\bin\x64\Debug\TriangulateMyTerrain.ilk
+  G:\Uni\Year2\3DG\NewTerrain\build\bin\x64\Debug\TriangulateMyTerrain.pdb
+  9 File(s) copied
+  G:\Uni\Year2\3DG\NewTerrain\content\terrain.png
+  1 File(s) copied
+  ... done
